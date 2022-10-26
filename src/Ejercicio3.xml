@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productos SYSTEM  "Ejercicio3.dtd">
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="Ejercicio3.xsd">
+    <producto>
+        <raton>
+            <codigo>020</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <raton>
+            <codigo>022</codigo>
+            <nombre>CPU</nombre>
+            <descripcion>Cpu nueva marca dell</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <raton>
+            <codigo>026</codigo>
+            <descripcion>Mouse inhambrico</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>023</codigo>
+            <descripcion>Teclado Español</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>025</codigo>
+            <nombre>Teclado Dell</nombre>
+            <descripcion>Teclado Español</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>024</codigo>
+            <nombre>Monitor2</nombre>
+            <descripcion>Monitor hecho en china</descripcion>
+        </monitor>
+    </producto>
+</productos>
